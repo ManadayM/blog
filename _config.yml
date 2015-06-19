@@ -1,9 +1,9 @@
 # Site settings
-title: Manaday Mavani
+title: @Manaday
 header-img: img/home-bg.jpg
 email: your-email@yourdomain.com
 description: "Write your site description here. It will be used as your sites meta description as well!"
-baseurl: ""
+baseurl: "http://manadaym.github.io/manaday-mavani-website"
 url: "http://yourdomain.com"
 twitter_username: ManadayM
 github_username:  ManadayM
