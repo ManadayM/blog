@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Bought a budget WiFi router: TP-Link WR841N"
-subtitle:   "Best and Simple yet budget WiFi router!"
+subtitle:   "Cheap and Simple!"
 date:       2015-06-23 00:00:00
 author:     "Manaday Mavani"
 ---
