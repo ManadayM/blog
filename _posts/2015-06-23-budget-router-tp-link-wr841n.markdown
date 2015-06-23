@@ -4,6 +4,7 @@ title:      "Bought a budget WiFi router: TP-Link WR841N"
 subtitle:   "Cheap and Simple!"
 date:       2015-06-23 00:00:00
 author:     "Manaday Mavani"
+permalink:	budget-router-tp-link-wr841n
 ---
 
 <p>A budget WiFi router was there in my wish-list since months. I wanted to buy a simplest and cheapest yet good WiFi router which fulfils my primary requirment to convert Wired internet connection into a Wireless one. No any advanced requirements.</P>
