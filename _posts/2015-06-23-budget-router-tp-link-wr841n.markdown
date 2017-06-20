@@ -1,10 +1,10 @@
 ---
-layout:     post
-title:      "TP-Link WR841N"
-subtitle:   "Bought a cheap and simple WiFi router!"
-date:       2015-06-23 00:00:00
-author:     "Manaday Mavani"
-permalink:	budget-router-tp-link-wr841n
+title: TP-Link WR841N
+date: 2015-06-23 00:00:00 Z
+permalink: budget-router-tp-link-wr841n
+layout: post
+subtitle: Bought a cheap and simple WiFi router!
+author: Manaday Mavani
 ---
 
 <p>A budget WiFi router was there in my wish-list since months. I wanted to buy a simplest and cheapest yet good WiFi router which fulfils my primary requirment to convert Wired internet into Wireless. No any advanced requirements.</P>
