@@ -1,12 +1,12 @@
 ---
 title: Chrome Extensions
 date: 2017-06-20 07:44:00 Z
-subtitle: List of extensions that I use
 categories:
 - technology
 tags:
 - chrome
 - extensions
+subtitle: List of extensions that I use
 ---
 
 List of useful Chrome Extensions that I use.
