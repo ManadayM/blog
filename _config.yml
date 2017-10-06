@@ -1,17 +1,29 @@
-# Site settings
+---
 title: Manaday Mavani
+timezone: Asia/Kolkata
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 header-img: img/home-bg.jpg
 email: your-email@yourdomain.com
-description: "Write your site description here. It will be used as your sites meta description as well!"
-baseurl: "http://manadaym.github.io/blog"
-url: "http://yourdomain.com"
+description: Write your site description here. It will be used as your sites meta
+  description as well!
+baseurl: http://manadaym.github.io/blog
+url: http://yourdomain.com
 twitter_username: ManadayM
-github_username:  ManadayM
-facebook_username:  manaday.mavani
-
-# Build settings
+github_username: ManadayM
+facebook_username: manaday.mavani
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 permalink: pretty
 paginate: 5
-exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+exclude:
+- less
+- node_modules
+- Gruntfile.js
+- package.json
+- README.md
